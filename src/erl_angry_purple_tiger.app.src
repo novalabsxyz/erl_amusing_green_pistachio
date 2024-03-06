@@ -1,4 +1,4 @@
-{application, erl_angry_purple_tiger,
+{application, erl_amusing_green_pistachio,
  [{description, "An OTP library"},
   {vsn, "0.1.0"},
   {registered, []},
