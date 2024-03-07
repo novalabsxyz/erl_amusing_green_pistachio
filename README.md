@@ -1,4 +1,4 @@
-erl_angry_purple_tiger
+erl_amusing_green_pistachio
 =====
 
 An OTP library
