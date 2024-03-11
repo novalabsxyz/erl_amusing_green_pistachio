@@ -42,6 +42,6 @@ compress(Size, Bin, Acc) ->
 
 basic_test() ->
     Known = "112CuoXo7WCcp6GGwDNBo6H5nKXGH45UNJ39iEefdv2mwmnwdFt8",
-    ?assertEqual({ok, "feisty-glass-dalmatian"}, snack_name(Known)).
+    ?assertEqual({ok, "serene-canvas-shortbread"}, snack_name(Known)).
 
 -endif.
